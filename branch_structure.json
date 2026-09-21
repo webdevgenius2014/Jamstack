@@ -1,0 +1,18 @@
+{
+  "default_branch": "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ",
+  "branches": [
+    "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ",
+    "claude/main-011CUfexPr7iYwB2LUhxwgjJ",
+    "claude/with-bugs-011CUfexPr7iYwB2LUhxwgjJ"
+  ],
+  "parent": {
+    "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ": null,
+    "claude/main-011CUfexPr7iYwB2LUhxwgjJ": "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ",
+    "claude/with-bugs-011CUfexPr7iYwB2LUhxwgjJ": "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ"
+  },
+  "order": [
+    "claude/jamstack-debugging-concept-app-011CUfexPr7iYwB2LUhxwgjJ",
+    "claude/main-011CUfexPr7iYwB2LUhxwgjJ",
+    "claude/with-bugs-011CUfexPr7iYwB2LUhxwgjJ"
+  ]
+}
